@@ -1,0 +1,16 @@
+print("#03 PRINT(), SINTEKS VA ARIFMETIKAMALLAR")
+
+print()
+print()
+
+print("""Nexia", "Tico", 'Damas' ko'rganlar qilar havas""")
+print()
+print("5 ning 4-darajasini toping" "5**4 = ",5**4)
+print()
+print("22 ni 4 ga bo'lganda qancha qoldiq qoladi?" "22%4 = ",22%4)
+print()
+print("Tomonlari 125 ga teng kvadratning yuzi va primetrini toping" "yuzi 125**2 = ",125**2,"ga teng")
+print()
+print("Diametri 12 ga teng bo'lgan doiraning yuzini toping (pi = 3.14 deb oling" "yuzi pi*12 = ",3.14*12,"ga teng")
+print()
+print("Katetlari 6 va 7 bo'lgan to'g'ri burchakli uchburchakning gipotenuzasini toping" "c**2 = 6**2+7**2 = ",6**2+7**2,"ga teng")
